@@ -1,0 +1,25 @@
+Key,English,Russian
+Cupboard.Head,Head,Голова
+Cupboard.Body,Body,Тело
+Cupboard.Leg,Legs,Ноги
+Cupboard.Choose,CHOOSE,НАДЕТЬ
+Cupboard.Choosed,CHOOSED,НАДЕТО
+PC.Main.HuntersPanel,HUNTER PANEL,ПАНЕЛЬ ОХОТНИКА
+PC.Main.StatPanel,STATISTICS,СТАТИСТИКА
+PC.Main.Fill,REPLENISHMENT,ПОПОЛНИТЬ
+PC.Hunt.FreeMode,FREE MODE,СВОБОДНЫЙ РЕЖИМ
+PC.Hunt.Play,PLAY,ИГРАТЬ
+PC.Hunt.Wanted,WANTED,РОЗЫСК
+PC.Hunt.SuspectNum,CASE,ДЕЛО
+PC.Hunt.SuspectSpeed,SPEED,СКОРОСТЬ
+PC.Hunt.SuspectCost,BOUNTY,НАГРАДА
+PC.Hunt.PlayPanelTitleOk,Are you shure you want to get down to business?,"Ты уверен в том, что хочешь взяться за это дело?"
+PC.Hunt.PlayPanelTitleNoEnergy,You are too tired. You can refill energy for 1T,Ты слишком устал. Ты можешь восстановить энергию за 1Т
+PC.Hunt.PlayPanelTitleNoEnergyFalse,There is not enough tokens on your balance,На счете недостаточно токенов
+PC.Hunt.PlayPanelTitleNoNet,No internet connection,Отсутствует подключение к сети
+PC.Stat.Catch,Caught suspects,Преступников поймано
+PC.Stat.Lose,Missed suspects,Преступников упущено
+PC.Stat.MaxSpeed,Top speed,Максимальная скорость
+PC.Stat.Barriers,Barriers passed,Препятствий пройдено
+PC.Stat.Money,Money earned,Денег заработано
+PC.Stat.Tokens,Tokens earned,Токенов заработано

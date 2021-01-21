@@ -1,0 +1,15 @@
+Key,English,Russian
+Pause.Speed,SPEED,СКОРОСТЬ
+Pause.MaxSpeed,MAX SPEED,ЦЕЛЬ
+Pause.Score,SCORE,СЧЕТ
+Pause.Money,RATE,СТАВКА
+Pause.Continue,CONTINUE,ПРОДОЛЖИТЬ
+Pause.Exit,EXIT,ВЫХОД
+Over.Success,SUCCESS,УСПЕХ
+Over.Fail,FAIL,ПРОВАЛ
+Over.Rate,RATE,СТАВКА
+Over.Bounty,BOUNTY,НАГРАДА
+Over.Total,TOTAL,ИТОГ
+Over.Extra,EXTRA CHANCE,ЭКСТРА ШАНС
+Over.Double,DOUBLE MONEY,УДВОИТЬ ДЕНЬГИ
+Over.Exit,EXIT,ВЫХОД

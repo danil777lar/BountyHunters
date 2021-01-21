@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648818275070",
+    "firebase_url": "https://bounty-hunters-b4427.firebaseio.com",
+    "project_id": "bounty-hunters-b4427",
+    "storage_bucket": "bounty-hunters-b4427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648818275070:android:f2aa8b318e739fe56b6baf",
+        "android_client_info": {
+          "package_name": "com.larje.BountyHunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648818275070-j44em73pq06rjph3l03mk9j1jubrn9f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC06aSAI_QCt7UviQADW35Z7Rg2Wck_Byw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648818275070-j44em73pq06rjph3l03mk9j1jubrn9f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
